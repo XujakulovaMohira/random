@@ -1,0 +1,13 @@
+button { 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    border: none; 
+    font-size: 16px; 
+    cursor: pointer; 
+    font-weight: bold;
+} 
+  
+button:hover { 
+    box-shadow: 1px 1px 10px 1px rgb(185, 185, 185); 
+    transform: translate(0px, -2px); 
+}
